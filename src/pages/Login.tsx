@@ -38,7 +38,7 @@ const Login = () => {
       setIsLoading(false);
       toast({
         title: "Account created!",
-        description: "Welcome to PodcastLearn. Let's start your journey!",
+        description: "Welcome to PodcastPro. Let's start your journey!",
       });
       navigate("/dashboard");
     }, 1500);
@@ -51,7 +51,7 @@ const Login = () => {
           <div className="flex justify-center mb-4">
             <Headphones className="h-12 w-12 text-purple-400" />
           </div>
-          <h1 className="text-3xl font-bold text-white mb-2">PodcastLearn</h1>
+          <h1 className="text-3xl font-bold text-white mb-2">PodcastPro</h1>
           <p className="text-gray-300">Your podcast learning companion</p>
         </div>
 

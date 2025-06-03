@@ -23,7 +23,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
             <Headphones className="h-8 w-8 text-purple-400" />
-            <span className="text-white font-bold text-xl">PodcastLearn</span>
+            <span className="text-white font-bold text-xl">PodcastPro</span>
           </div>
           
           <div className="flex items-center space-x-4">

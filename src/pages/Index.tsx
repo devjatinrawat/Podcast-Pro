@@ -15,7 +15,7 @@ const Index = () => {
             <Headphones className="h-16 w-16 text-purple-400" />
           </div>
           <h1 className="text-5xl font-bold text-white mb-6 animate-fade-in">
-            PodcastLearn
+            PodcastPro 🔥
           </h1>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
             Transform your podcast listening into an interactive learning experience. 
